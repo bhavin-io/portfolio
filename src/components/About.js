@@ -16,12 +16,12 @@ export default function About(){
                     </p>
                     <div className="flex justify-center">
                         <a
-                            href="#contact"
+                            href={"#contact"}
                             className="inline-flex bg-yellow-300 border-0 py-2 px-6 focus:outline-none hover:bg-yellow-600 rounded text-lg">
                             Work With Me
                         </a>
                         <a
-                            href="#projects"
+                            href={"#projects"}
                             className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
                             See My Past Work
                         </a>
@@ -31,7 +31,7 @@ export default function About(){
                     <img
                         className="object-cover object-center rounded-full"
                         alt="Bhavin Himatkumar Goswami"
-                        src="./resources/bhavin-himatkumar-goswami.jpg"
+                        src={"./resources/bhavin-himatkumar-goswami.jpg"}
                     />
                 </div>
             </div>

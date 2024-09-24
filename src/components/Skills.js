@@ -1,4 +1,4 @@
-import { BadgeCheckIcon, ChipIcon, CodeIcon, DesktopComputerIcon, CogIcon } from "@heroicons/react/solid";
+import { BadgeCheckIcon, CodeIcon, DesktopComputerIcon, CogIcon } from "@heroicons/react/solid";
 import React from "react";
 import { skills,tools } from "../data";
 

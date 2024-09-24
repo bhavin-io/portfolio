@@ -1,4 +1,3 @@
-import App from "./App";
 
 export const projects = [
     {
@@ -6,7 +5,6 @@ export const projects = [
         subtitle: "Image/Video Forgery Detection Application",
         description:
             "This application leverages advanced algorithms to detect fake images and videos, ensuring authenticity in digital media. By analyzing various characteristics and employing deep learning techniques, IFAKE can accurately identify manipulated content, enhancing trust in online visuals.",
-        image: "https://raw.githubusercontent.com/shraddhavijay/IFAKE/master/screenshots/index.JPG",
         link: "https://github.com/shraddhavijay/IFAKE",
     },
     {
@@ -14,7 +12,6 @@ export const projects = [
         subtitle: "Identifying Fake Images Through CNN Based Classification",
         description:
             "This paper discusses the innovative use of Convolutional Neural Networks (CNN) for detecting counterfeit images. Utilizing the FIDAC framework, the study demonstrates the effectiveness of deep learning models in classifying images based on their authenticity.",
-        image: "",
         link: "https://ieeexplore.ieee.org/document/9862034",
     },
     {
@@ -22,7 +19,6 @@ export const projects = [
         subtitle: "FIDAC- Forged Images Detection And Classification",
         description:
             "FIDAC is a comprehensive dataset designed for training and testing image forgery detection models. It includes a diverse collection of forged and authentic images, facilitating research and development in the field of digital forensics. This dataset is crucial for improving model accuracy in detecting image manipulations.",
-        image: "",
         link: "https://ieee-dataport.org/documents/fidac-forged-images-detection-and-classification",
     },
     {
@@ -30,7 +26,6 @@ export const projects = [
         subtitle: "5 stage Pipeline design for a 32-bit MIPS",
         description:
             "This project involved the design of a five-stage pipeline architecture for a 32-bit MIPS processor. By optimizing instruction flow and reducing data hazards, the design enhances performance and efficiency. The project demonstrates the principles of computer architecture and the significance of pipeline processing in modern CPUs.",
-        image: "./project-4.gif",
         link: "https://github.com/BrinaDancer/MIPS2023PACE",
     },
     {
@@ -38,7 +33,6 @@ export const projects = [
         subtitle: "Academic Project",
         description:
             "This project employs statistical methods to analyze movie ratings, focusing on factors influencing viewer preferences. By utilizing regression analysis and machine learning techniques, the study aims to uncover insights into audience behavior and improve recommendation systems in streaming platforms.",
-        image: "./project-4.gif",
         link: "https://github.com/mudra523/recognizing-statistical-significance-movie-ratings/blob/main/PythonProject.ipynb",
     },
 ];
