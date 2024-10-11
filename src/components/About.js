@@ -31,7 +31,7 @@ export default function About(){
                     <img
                         className="object-cover object-center rounded-full"
                         alt="Bhavin Himatkumar Goswami"
-                        src={"./resources/bhavin-himatkumar-goswami.jpg"}
+                        src={"./resources/bhavin_white-bg.png"}
                     />
                 </div>
             </div>
