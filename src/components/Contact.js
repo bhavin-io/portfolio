@@ -44,6 +44,7 @@ export default function Contact() {
                     </div>
                 </div>
                 <form
+                    action="/index.html"
                     method="POST"
                     data-netlify="true"
                     name="contact"
